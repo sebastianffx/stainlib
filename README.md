@@ -1,6 +1,9 @@
 # stainlib
-Python 3 library for the augmentation &amp; normalization of H&amp;E images
+Python 3 library for the augmentation &amp; normalisation of H&amp;E images
+![enter image description here](https://drive.google.com/uc?id=1By4Nw3X0sgwxamF0qN3TqiL-B1q2qZqQ) <img src="https://drive.google.com/uc?id=1By4Nw3X0sgwxamF0qN3TqiL-B1q2qZqQ" width="200">
 
+Our objective with this repository is to provide an easy to use python 3 library that includes 
+the most commonly used methods for color augmentation and normalisation of histopathology images, having as input local image regions.
 
 
 ## Research
@@ -15,6 +18,5 @@ This project has received funding from the European Union’s Horizon 2020 resea
 For more information on the ExaMode project, please visit www.examode.eu. 
 
 ![enter image description here](https://www.examode.eu/wp-content/uploads/2018/11/horizon.jpg)  ![enter image description here](https://www.examode.eu/wp-content/uploads/2018/11/flag_yellow.png) <img src="https://www.examode.eu/wp-content/uploads/2018/11/cropped-ExaModeLogo_blacklines_TranspBackGround1.png" width="80">
-
 
 
