@@ -1,6 +1,6 @@
 # stainlib
 Python 3 library for the augmentation &amp; normalisation of H&amp;E images
-![enter image description here](https://drive.google.com/uc?id=1By4Nw3X0sgwxamF0qN3TqiL-B1q2qZqQ) <img src="https://drive.google.com/uc?id=1By4Nw3X0sgwxamF0qN3TqiL-B1q2qZqQ" width="200">
+![Currently implemented methods in stainlib]<img src="https://drive.google.com/uc?id=1By4Nw3X0sgwxamF0qN3TqiL-B1q2qZqQ" width="200">
 
 Our objective with this repository is to provide an easy to use python 3 library that includes 
 the most commonly used methods for color augmentation and normalisation of histopathology images, having as input local image regions.
