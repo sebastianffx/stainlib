@@ -4,6 +4,15 @@ Python 3 library for the augmentation &amp; normalisation of H&amp;E images
 Our objective with this repository is to provide an easy to use python 3 library that includes 
 the most commonly used methods for color augmentation and normalisation of histopathology images, having as input local image regions.
 
+## Pre-requisites
+The library was developed and tested in a python 3.8 conda environment.  The following packages are required:
+- scikit-image
+- scipy
+- pillow
+- opencv-python
+- spams
+You can find the complete list of packages installed when developed the library under utils/enviroment.yml
+ 
 ## Examples
 You can find examples for using stainlib in the jupyter notebooks stainlib_augmentation.ipynb and stainlib_normalization.ipynb
 # Research
