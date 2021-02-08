@@ -1,0 +1,3 @@
+[submodule "dlmodels/stain_adversarial_learning"]
+	path = dlmodels/stain_adversarial_learning
+	url = https://github.com/sebastianffx/stain_adversarial_learning
