@@ -7,13 +7,13 @@ setup(
     author='Sebastian Otálora',
     author_email='sebastianffx@gmail.com',
     url='https://github.com/sebastianffx/stainlib',
-    packages=find_packages(exclude=('tests')),
+    packages=find_packages(include=['stainlib']),
     install_requires=[
         'numpy',
         'matplotlib',
         'opencv-python',
         'scikit-image',
         'pillow',
-        'spams'
+        'spams-bin'
     ]
 )
