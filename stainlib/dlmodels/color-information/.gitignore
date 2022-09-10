@@ -1,0 +1,48 @@
+# Folders
+*__pycache__*
+*lib_deps*
+*openslide*
+*.whl
+*tiff*
+
+
+# All images
+*.tiff
+*.TIFF
+*.jpg
+*.JPG
+*.png
+*.PNG
+*.JPEG
+*.JPEG
+*.h5
+*.tfrecords
+*.tif*
+*.xml*
+# Logging things
+*logs*
+*.v2
+*.tar.gz
+*.tar
+*.gz
+*.pt*
+*.data*
+*.index*
+*.pb*
+# Pycharm things
+*.idea*
+*DS_STORE*
+*.csv
+# Virtual Environments
+*virtualenvs*
+
+# Slurm outputs
+*slurm*
+
+# Apple Shit
+*DS_Store*
+*MACOSX*
+
+# Histo for now
+*Histopathology-Stain-Color-Normalization*
+
