@@ -16,17 +16,17 @@ if sys.version_info[0] < 3:
     raise Exception("Error: You are not running Python 3.")
 
 #Stain extraction classes and modules
-from stainlib.extraction.macenko_stain_extractor import MacenkoStainExtractor
-from stainlib.extraction.vahadane_stain_extractor import VahadaneStainExtractor
+from .extraction.macenko_stain_extractor import MacenkoStainExtractor
+from .extraction.vahadane_stain_extractor import VahadaneStainExtractor
 
 #Stain augmentation classes and modules
-from stainlib.augmentation.augmenter import HedLighterColorAugmenter, HedLightColorAugmenter, HedStrongColorAugmenter
-from stainlib.augmentation.augmenter import GrayscaleAugmentor
+from .augmentation.augmenter import HedLighterColorAugmenter, HedLightColorAugmenter, HedStrongColorAugmenter
+from .augmentation.augmenter import GrayscaleAugmentor
 
 #Stain normalization classes and modules
-from stainlib.normalization.normalizer import ExtractiveStainNormalizer
-from stainlib.normalization.normalizer import ReinhardStainNormalizer
+from .normalization.normalizer import ExtractiveStainNormalizer
+from .normalization.normalizer import ReinhardStainNormalizer
 
-#from stainlib.utils.luminosity_standardizer import LuminosityStandardizer
+from .utils.luminosity_standardizer import LuminosityStandardizer
 #from stainlib.preprocessing.read_image import read_image
 #from stainlib.visualization.visualization import *
