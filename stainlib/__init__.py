@@ -27,6 +27,6 @@ from .augmentation.augmenter import GrayscaleAugmentor
 from .normalization.normalizer import ExtractiveStainNormalizer
 from .normalization.normalizer import ReinhardStainNormalizer
 
-from .utils.luminosity_standardizer import LuminosityStandardizer
+from .utils.stain_utils import LuminosityStandardizer
 #from stainlib.preprocessing.read_image import read_image
 #from stainlib.visualization.visualization import *
