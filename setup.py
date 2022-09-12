@@ -7,7 +7,7 @@ setup(
     author='Sebastian Otálora',
     author_email='sebastianffx@gmail.com',
     url='https://github.com/sebastianffx/stainlib',
-    packages=find_packages(include=['stainlib']),
+    packages=find_packages(),
     install_requires=[
         'numpy',
         'matplotlib',
